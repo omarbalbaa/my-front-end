@@ -34,7 +34,7 @@ function Users(){
                     )
                 })}
                 </div>
-                <div className="fw-semibold text-danger">start <a href="https://github.com/omarbalbaa/my-back-end" target="_blank">my node server</a> on port 8080 to show users data</div>
+                <div className="fw-semibold text-danger">start <a href="https://github.com/omarbalbaa/my-back-end">server</a> on port 8080 to show users' data</div>
             </div>
         </div>
     );
